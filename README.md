@@ -106,18 +106,6 @@ npm run dev
 
 ---
 
-## 📸 Dashboard
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
 ## 🔄 Workflow
 
 ```
