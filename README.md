@@ -190,6 +190,4 @@ git push origin feature-name
 - GitHub: https://github.com/Pratikfating123
 - LinkedIn: https://www.linkedin.com/in/pratik-fating-153448273/
 
----
 
-⭐ If you found this project helpful, please consider giving it a **Star** on GitHub!
