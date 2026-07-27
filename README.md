@@ -194,7 +194,7 @@ This project is licensed under the MIT License.
 **Pratik Fating**
 
 - GitHub: https://github.com/Pratikfating123
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://www.linkedin.com/in/pratik-fating-153448273/
 
 ---
 
